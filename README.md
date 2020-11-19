@@ -1,5 +1,6 @@
 # news
-
+An app where you can get the lastest news on sport,entertainment, bitcoin etc...
+the news is gotten from newsapi.org/ api
 A new Flutter application.
 
 ## Getting Started
